@@ -116,7 +116,7 @@ gap: 80px;
 
 .apresentacao__imagem{
 
-    width: 100%;
+    width: 50%;
 
 }
 
@@ -153,6 +153,15 @@ gap: 80px;
         width: auto;
 
      }
+    
+    .apresentacao__imagem{
+
+    width: 100%;
+    
+    }
+
+}
+
 
 
    
