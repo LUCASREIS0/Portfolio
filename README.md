@@ -1,45 +1,56 @@
-<h1 align="center">Projeto de Apresentação Pessoal - Sobre Mim</h1>
+<div align="center">
 
-<p align="center">
-  <i>Meu primeiro projeto de desenvolvimento web!</i> 🌟
-</p>
-
----
+# 🚀 Projeto de Apresentação Pessoal - Sobre Mim 🌟
 
 ## ℹ️ Sobre o Projeto
 
-Esse projeto foi criado como uma forma de apresentação pessoal, mostrando quem sou, meus interesses e habilidades no campo de desenvolvimento de interfaces web. 💼
+Este projeto é uma página de apresentação pessoal, criada para demonstrar minhas habilidades e interesses no desenvolvimento de interfaces web.
 
-### 🛠️ Tecnologias Utilizadas
+## 📚 Formação na Alura
 
-- **HTML:** Estruturação do conteúdo da página.
-- **CSS:** Estilização e design do site.
-- **Google Fonts:** Importação de fontes externas para estilização.
-- **Media Queries:** Responsividade para diferentes tamanhos de tela. 🖥️
+Esse projeto está relacionado à formação "[A partir do zero: HTML e CSS para projetos web](https://cursos.alura.com.br/formacao-html-css)" oferecida pela [Alura](https://cursos.alura.com.br/).
 
----
+## 🎯 Objetivo
 
-## 📚 O Que Aprendi
-
-- Estruturar um site utilizando HTML de forma organizada.
-- Aplicar estilos e design usando CSS, incluindo cores personalizadas e diferentes fontes.
-- Implementar responsividade para tornar o site adaptável a dispositivos móveis.
-- Conectar diferentes seções de um site usando âncoras para uma navegação suave. 🌐
+O objetivo principal deste projeto é apresentar minha identidade, habilidades e experiências no desenvolvimento web de forma criativa e informativa.
 
 ---
 
-## 👨‍💻 Sobre Mim
+### 🔧 Funcionalidades
 
-Sou [Lucas Reis], estudante de [Análise de sistemas] na [Universidade Tiradentes]. Meu foco está em [Desenvolvimento Front-End]. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades em desenvolvimento web. 🚀
-
----
-
-## 🙏 Reconhecimento
-
-Gostaria de expressar minha gratidão à plataforma Alura pela formação "A partir do zero: HTML e CSS para projetos web". Essa formação foi fundamental para o meu aprendizado e para a criação deste projeto inicial. 🙏
+- Estruturação organizada do site usando HTML.
+- Estilização e design atraente usando CSS.
+- Responsividade para adaptação a diferentes dispositivos.
+- Uso de âncoras para navegação interna na página.
 
 ---
 
-## 🚀 Próximos Passos
+### 🧠 Aprendizados em HTML e CSS
 
-Estou ansioso para continuar minha jornada de aprendizado! Meu próximo passo é explorar mais a fundo Javascript e frameworks como React e Vue.js para criar projetos ainda mais avançados e interativos. ✨👨‍💻
+Durante o desenvolvimento deste projeto, explorei a estruturação de páginas web usando HTML de forma organizada e a aplicação de estilos usando CSS para criar um design atraente.
+
+---
+
+### 🚀 Como Executar
+
+Para executar localmente, basta clonar este repositório e abrir o arquivo HTML em um navegador web.
+
+---
+
+### 🔗 Versão Hospedada
+
+Uma versão hospedada deste projeto está disponível [aqui](https://portfolio-lucasreis-neon-zeta.vercel.app/).
+
+---
+
+### 💡 Contribuição
+
+Se você quiser contribuir para este projeto, sinta-se à vontade para abrir problemas ou enviar solicitações de pull request no repositório.
+
+---
+
+### 👤 Autor
+
+Desenvolvido por [Lucas Reis](https://www.linkedin.com/in/lucasreisv/). Entre em contato [clicando aqui](https://wa.me/558186580542).
+
+</div>
