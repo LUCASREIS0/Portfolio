@@ -42,4 +42,4 @@ Gostaria de expressar minha gratidão à plataforma Alura pela formação "A par
 
 ## 🚀 Próximos Passos
 
-Estou ansioso para continuar minha jornada de aprendizado! Meu próximo passo é explorar mais a fundo frameworks como React e Vue.js para criar projetos ainda mais avançados e interativos. ✨👨‍💻
+Estou ansioso para continuar minha jornada de aprendizado! Meu próximo passo é explorar mais a fundo Javascript e frameworks como React e Vue.js para criar projetos ainda mais avançados e interativos. ✨👨‍💻
